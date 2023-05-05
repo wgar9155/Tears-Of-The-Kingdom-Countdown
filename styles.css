@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    height: 100%;
+    width: 100%;
+}
+p {
+    color: #4dd49d;
+    font-family: ZeldaFont;
+    font-size: 100px;
+}
+.Centered{
+display: grid;
+place-items: center;
+}
+@font-face {
+    font-family: ZeldaFont;
+    src: url(Triforce.ttf);
+ }
